@@ -1,0 +1,11 @@
+# Compiler files
+cache/
+out/
+
+**/lib/**
+**/broadcast/**
+docs/
+
+# Dotenv file
+.env
+.password
